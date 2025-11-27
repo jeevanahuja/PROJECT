@@ -1,5 +1,5 @@
-print("Jeevan Ahuja")
-print("Age 19")
+#print("Jeevan Ahuja")
+#print("Age 19")
 
 # a=int(input("Enter Number :"))
 # b=int(input("Enter Number :"))
@@ -15,4 +15,5 @@ print("Age 19")
 # a=int(input("Enter First Number : "))
 # b=int(input("Enter Second Number : "))
 # print(a>b)
+
 
